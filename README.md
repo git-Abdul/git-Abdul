@@ -10,22 +10,22 @@ I am always looking for ways to give back to the community, and I am a regular c
 
 ## **Contact Me** :mailbox:
 
-* **Email:** [Your email address]
-* **Website:** [Your website]
-* **Twitter:** [@your_twitter_handle]
+* **Email:** [rehmanaleem777@gmail.com]
+* **Website:** [https://linktr.ee/ar.im]
+* **Twitter:** [@ARTwitr]
 
 ## **My GitHub Stats** :bar_chart:
 
-* Total repositories: 10
-* Total stars: 50
-* Total forks: 20
-* Most popular repository: `my_python_project`
+* Total repositories: 9
+* Total stars: 2
+* Total forks: 1
+* Most popular repository: `studyBuddy`
 
 ## **My Recent Projects** :rocket:
 
-* `my_python_project`: A simple Python project that I created to learn the basics of Python.
-* `my_django_project`: A Django project that I created to build a simple web application.
-* `my_flask_project`: A Flask project that I created to build a simple REST API.
+* `qrAppGenerator`: A simple Python project that I created to learn the basics of Python.
+* `studyBuddy`: Full fledged python scalable application.
+* `Skeleterror`: Personal project virus in python.
 
 ## **My Goals** :star:
 
