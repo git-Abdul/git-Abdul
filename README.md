@@ -4,7 +4,7 @@
 
 I am a **Python student** with a passion for **coding**. I am always looking for new challenges and opportunities to learn and grow.
 
-I am proficient in **Python** and have experience with **Django**, **Flask**, and **PyTorch**. I am also a strong communicator and have a knack for problem-solving.
+I am proficient in **Python** and have experience with **Python**, **Tkinter**, and **React.js**. I am also a strong communicator and have a knack for problem-solving.
 
 I am always looking for ways to give back to the community, and I am a regular contributor to open source projects.
 
