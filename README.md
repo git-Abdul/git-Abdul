@@ -12,7 +12,7 @@ I am always looking for ways to give back to the community, and I am a regular c
 
 * **Email:** [rehmanaleem777@gmail.com]
 * **Website:** [https://linktr.ee/ar.im]
-* **Twitter:** [@ARTwitr]
+* **Twitter:** [@ARtwitr]
 
 ## **My GitHub Stats** :bar_chart:
 
