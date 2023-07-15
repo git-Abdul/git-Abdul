@@ -1,7 +1,5 @@
 # [Abdul]'s GitHub Profile :snake:
 
-![Profile Image](https://avatars.githubusercontent.com/u/81208506?v=4)
-
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=git-Abdul&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=git-Abdul&layout=compact&theme=dark&hide_border=true)](https://github.com/git-Abdul)
