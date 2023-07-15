@@ -1,5 +1,11 @@
 # [Abdul]'s GitHub Profile :snake:
 
+![Profile Image](https://avatars.githubusercontent.com/u/81208506?v=4)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=git-Abdul&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=git-Abdul&layout=compact&theme=dark&hide_border=true)](https://github.com/git-Abdul)
+
 ## About Me 😎
 
 I am a Python student with a passion for coding. I am always looking for new challenges and opportunities to learn and grow.
@@ -39,11 +45,5 @@ A personal project involving a virus implementation in Python.
 * Land my dream job as a Python developer.
 
 ## Thanks for visiting my GitHub profile! :smiley:
-
-![Profile Image](https://avatars.githubusercontent.com/u/81208506?v=4)
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=git-Abdul&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=git-Abdul&layout=compact&theme=dark&hide_border=true)](https://github.com/git-Abdul)
 
 <!-- Add any additional embeds or images here -->
