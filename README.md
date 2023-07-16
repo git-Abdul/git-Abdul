@@ -1,6 +1,13 @@
 # [Abdul]'s GitHub Profile :snake:
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=git-Abdul&theme=dark&hide_border=true&border_radius=15&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+<div>
+    <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com?user=git-Abdul&theme=dark&hide_border=true&border_radius=15&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+    </a>
+    <a href="https://spotify-github-profile.vercel.app/api/view?uid=7degdtww30he639dah83r7qmr&redirect=true">
+        <img src="https://spotify-github-profile.vercel.app/api/view?uid=7degdtww30he639dah83r7qmr&cover_image=true&theme=default" alt="Spotify" align="right" />
+    </a>
+</div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=git-Abdul&layout=compact&theme=dark&hide_border=true)](https://github.com/git-Abdul)
 
@@ -45,6 +52,4 @@ A personal project involving a virus implementation in Python.
 ## Thanks for visiting my GitHub profile! :smiley:
 
 <!-- Add any additional embeds or images here -->
-
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=7degdtww30he639dah83r7qmr&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=abdul123&redirect=true)
 
