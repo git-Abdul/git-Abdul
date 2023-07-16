@@ -5,7 +5,7 @@
         <img src="https://streak-stats.demolab.com?user=git-Abdul&theme=dark&hide_border=true&border_radius=15&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
     </a>
     <a href="https://spotify-github-profile.vercel.app/api/view?uid=7degdtww30he639dah83r7qmr&redirect=true">
-        <img src="https://spotify-github-profile.vercel.app/api/view?uid=7degdtww30he639dah83r7qmr&cover_image=true&theme=default" alt="Spotify" align="right" height="700"/>
+        <img src="https://spotify-github-profile.vercel.app/api/view?uid=7degdtww30he639dah83r7qmr&cover_image=true&theme=default" alt="Spotify" align="right" height="400"/>
     </a>
 </div>
 
