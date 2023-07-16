@@ -1,4 +1,4 @@
-# [Abdul]'s GitHub Profile :snake:
+# Abdul's GitHub Profile :snake:
 
 <div>
     <a href="https://git.io/streak-stats">
