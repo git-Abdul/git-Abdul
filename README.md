@@ -34,13 +34,10 @@ I am always looking for ways to give back to the community, and I am a regular c
 
 ## My Recent Projects :rocket:
 
-### qrAppGenerator
-A simple Python project that I created to learn the basics of Python.
-
 ### studyBuddy
 A full-fledged Python application with scalability in mind.
 
-### Skeleterror
+### dom --0.1.0
 A personal project involving a virus implementation in Python.
 
 ## My Goals :star:
