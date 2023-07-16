@@ -45,3 +45,6 @@ A personal project involving a virus implementation in Python.
 ## Thanks for visiting my GitHub profile! :smiley:
 
 <!-- Add any additional embeds or images here -->
+
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=7degdtww30he639dah83r7qmr&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=abdul123&redirect=true)
+
