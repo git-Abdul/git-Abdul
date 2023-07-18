@@ -27,8 +27,8 @@ I am always looking for ways to give back to the community, and I am a regular c
 
 ## My GitHub Stats :bar_chart:
 
-* Total repositories: 9
-* Total stars: 2
+* Total repositories: 12
+* Total stars: 5
 * Total forks: 1
 * Most popular repository: `studyBuddy`
 
