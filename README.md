@@ -37,8 +37,8 @@ I am always looking for ways to give back to the community, and I am a regular c
 ### studyBuddy
 A full-fledged Python application with scalability in mind.
 
-### dom --0.1.0
-A personal project involving a virus implementation in Python.
+### krypticBot
+A discord bot made in python using discord.py 
 
 ## My Goals :star:
 
