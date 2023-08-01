@@ -21,9 +21,9 @@ I am always looking for ways to give back to the community, and I am a regular c
 
 ## Contact Me :mailbox:
 
-* **Email:** [rehmanaleem777@gmail.com]
-* **Website:** [https://linktr.ee/ar.im]
-* **Twitter:** [@ARtwitr]
+* **Email:** [mailto:rehmanaleem777@gmail.com]
+* **Website:** [bit.ly/abduldev]
+* **Socials:** [[@ARtwitr](https://linktr.ee/ar.im)]
 
 ## My GitHub Stats :bar_chart:
 
