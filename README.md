@@ -7,7 +7,6 @@
 </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=git-Abdul&layout=compact&theme=dark&hide_border=true)](https://github.com/git-Abdul)
-[![GitHub Streak](https://streak-stats.demolab.com?user=git-Abdul&theme=react&hide_border=true&border_radius=7)](https://git.io/streak-stats)
 
 ## About Me 😎
 
