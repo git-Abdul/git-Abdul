@@ -1,15 +1,13 @@
 # Abdul's GitHub Profile :snake:
 
 <div>
-    <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com?user=git-Abdul&theme=dark&hide_border=true&border_radius=15&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-    </a>
     <a href="https://spotify-github-profile.vercel.app/api/view?uid=7degdtww30he639dah83r7qmr&redirect=true">
         <img src="https://spotify-github-profile.vercel.app/api/view?uid=7degdtww30he639dah83r7qmr&cover_image=true&theme=default" alt="Spotify" align="right" height="380"/>
     </a>
 </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=git-Abdul&layout=compact&theme=dark&hide_border=true)](https://github.com/git-Abdul)
+[![GitHub Streak](https://streak-stats.demolab.com?user=git-Abdul&theme=react&hide_border=true&border_radius=7)](https://git.io/streak-stats)
 
 ## About Me 😎
 
