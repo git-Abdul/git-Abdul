@@ -1,32 +1,53 @@
 # Abdul's GitHub Profile :snake:
 
-<div>
-    <a href="https://spotify-github-profile.vercel.app/api/view?uid=7degdtww30he639dah83r7qmr&redirect=true">
-        <img src="https://spotify-github-profile.vercel.app/api/view?uid=7degdtww30he639dah83r7qmr&cover_image=true&theme=default" alt="Spotify" align="right" height="380"/>
-    </a>
-</div>
+# GitHub Profile Readme
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=git-Abdul&layout=compact&theme=dark&hide_border=true)](https://github.com/git-Abdul)
+Hello there! 👋 Welcome to my GitHub profile. I'm a passionate front-end developer with expertise in React (Next.js) and Python (Tkinter). I love creating interactive and user-friendly web applications and desktop applications. Here you'll find a collection of my projects and contributions. Feel free to explore and get in touch if you have any questions or collaborations in mind.
 
-## About Me 😎
+## Table of Contents
+- [Projects](#projects)
+- [Skills](#skills)
+- [Connect with Me](#connect-with-me)
 
-I am a Python student with a passion for coding. I am always looking for new challenges and opportunities to learn and grow.
+## Projects
 
-I am proficient in Python and have experience with Python, Tkinter, and React.js. I am also a strong communicator and have a knack for problem-solving.
+Here are some of my notable projects:
 
-I am always looking for ways to give back to the community, and I am a regular contributor to open source projects.
+1. **React E-commerce Website**
+   - Description: A full-fledged e-commerce website built using React and Next.js. Features include product listings, shopping cart, user authentication, and payment processing.
+   - Repository: [Link](https://github.com/yourusername/react-ecommerce)
 
-## Contact Me :mailbox:
+2. **Python Desktop Application with Tkinter**
+   - Description: A desktop application developed in Python using Tkinter for creating a user-friendly GUI. This application [describe your app's purpose].
+   - Repository: [Link](https://github.com/yourusername/python-tkinter-app)
 
-* **Email:** [[Email me:](mailto:rehmanaleem777@gmail.com)]
-* **Website:** [[Abdul • Dev](https://bit.ly/abduldev)]
-* **Socials:** [[Socials](https://linktr.ee/ar.im)]
+3. **Project Name**
+   - Description: Briefly describe another project you've worked on.
+   - Repository: [Link](https://github.com/yourusername/another-project)
 
-## My GitHub Stats :bar_chart:
+4. **Project Name**
+   - Description: You can add more projects and descriptions here.
+   - Repository: [Link](https://github.com/yourusername/yet-another-project)
 
-* Total repositories: 16
-* Total stars: 8
-* Total forks: 1
+## Skills
+
+- **Front-end Development**: React, Next.js, HTML, CSS, JavaScript
+- **Python Development**: Tkinter, Django
+- **UI/UX Design**: Creating intuitive and visually appealing interfaces
+- **Version Control**: Git, GitHub
+- **Problem Solving**: Analyzing complex problems and finding creative solutions
+- **Collaboration**: Working effectively in cross-functional teams
+
+## Connect with Me
+
+Feel free to connect with me on other platforms:
+
+- GitHub: [@yourusername](https://github.com/yourusername)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourlinkedinprofile/)
+- Twitter: [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
+- Portfolio Website: [www.yourwebsite.com](https://www.yourwebsite.com)
+
+Let's collaborate and build something amazing together! 🚀 Thanks for visiting my profile.
 * Most popular repository: `studyBuddy`
 
 ## My Recent Projects :rocket:
@@ -45,5 +66,4 @@ A discord bot made in python using discord.py
 
 ## Thanks for visiting my GitHub profile! :smiley:
 
-<!-- Add any additional embeds or images here -->
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=git-Abdul&layout=compact&theme=dark&hide_border=true)](https://github.com/git-Abdul)
