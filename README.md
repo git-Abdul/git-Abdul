@@ -11,21 +11,13 @@ Hello there! 👋 Welcome to my GitHub profile. I'm a passionate front-end devel
 
 Here are some of my notable projects:
 
-1. **React E-commerce Website**
+1. **React Developer Portfolio Website**
    - Description: A full-fledged e-commerce website built using React and Next.js. Features include product listings, shopping cart, user authentication, and payment processing.
-   - Repository: [Link](https://github.com/yourusername/react-ecommerce)
+   - Repository: [Link](https://github.com/git-abdul/dev)
 
-2. **Python Desktop Application with Tkinter**
+2. **Python Study Helper with Tkinter**
    - Description: A desktop application developed in Python using Tkinter for creating a user-friendly GUI. This application [describe your app's purpose].
-   - Repository: [Link](https://github.com/yourusername/python-tkinter-app)
-
-3. **Project Name**
-   - Description: Briefly describe another project you've worked on.
-   - Repository: [Link](https://github.com/yourusername/another-project)
-
-4. **Project Name**
-   - Description: You can add more projects and descriptions here.
-   - Repository: [Link](https://github.com/yourusername/yet-another-project)
+   - Repository: [Link](https://github.com/git-abdul/studybuddy)
 
 ## Skills
 
