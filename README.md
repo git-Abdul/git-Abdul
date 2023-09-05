@@ -64,5 +64,4 @@ A discord bot made in python using discord.py
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=madushadhanushka&theme=react" alt="mystreak"/>
 <img src="https://myreadme.vercel.app/api/embed/git-abdul?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI)
 <hr>
