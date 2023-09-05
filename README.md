@@ -62,25 +62,7 @@ A discord bot made in python using discord.py
 
 ## Thanks for visiting my GitHub profile! :smiley:
 
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>📘 Project</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>🤝 Forks</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/git-abdul/differ"><b>Differ</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/git-abdul/differ?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/git-abdul/differ?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/madushadhanushka/differ"><b>Simple SQLite</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/git-abdul/simple-sqlite?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/git-abdul/simple-sqlite?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-  </tbody>
-</table>
+<img src="https://myreadme.vercel.app/api/embed/git-abdul?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+<img src="https://komarev.com/ghpvc/?username=git-abdul&color=brightgreen" alt="watching_count" />
+<img src="https://img.shields.io/github/stars/git-abdul?label=Stars" alt="stars">
 <hr>
