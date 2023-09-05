@@ -1,13 +1,16 @@
 # Abdul's GitHub Profile :snake:
 
 <img src="https://i.postimg.cc/G38GPVMz/thumbnail.png" alt="banner">
+<hr>
 
 Hello there! 👋 Welcome to my GitHub profile. I'm a passionate front-end developer with expertise in React (Next.js) and Python (Tkinter). I love creating interactive and user-friendly web applications and desktop applications. Here you'll find a collection of my projects and contributions. Feel free to explore and get in touch if you have any questions or collaborations in mind.
+<hr>
 
 ## Table of Contents
 - [Projects](#projects)
 - [Skills](#skills)
 - [Connect with Me](#connect-with-me)
+<hr>
 
 ## Projects
 
@@ -20,6 +23,7 @@ Here are some of my notable projects:
 2. **Python Study Helper with Tkinter**
    - Description: A desktop application developed in Python using Tkinter for creating a user-friendly GUI. This application [describe your app's purpose].
    - Repository: [Link](https://github.com/git-abdul/studybuddy)
+<hr>
 
 ## Skills
 
@@ -29,7 +33,7 @@ Here are some of my notable projects:
 - **Version Control**: Git, GitHub
 - **Problem Solving**: Analyzing complex problems and finding creative solutions
 - **Collaboration**: Working effectively in cross-functional teams
-
+<hr>
 ## Connect with Me
 
 Feel free to connect with me on other platforms:
@@ -39,7 +43,7 @@ Feel free to connect with me on other platforms:
 
 Let's collaborate and build something amazing together! 🚀 Thanks for visiting my profile.
 * Most popular repository: `studyBuddy`
-
+<hr>
 ## My Recent Projects :rocket:
 
 ### studyBuddy
@@ -57,3 +61,4 @@ A discord bot made in python using discord.py
 ## Thanks for visiting my GitHub profile! :smiley:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=git-Abdul&layout=compact&theme=dark&hide_border=true)](https://github.com/git-Abdul)
+<hr>
