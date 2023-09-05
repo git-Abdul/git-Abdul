@@ -1,7 +1,5 @@
 # Abdul's GitHub Profile :snake:
 
-# GitHub Profile Readme
-
 Hello there! 👋 Welcome to my GitHub profile. I'm a passionate front-end developer with expertise in React (Next.js) and Python (Tkinter). I love creating interactive and user-friendly web applications and desktop applications. Here you'll find a collection of my projects and contributions. Feel free to explore and get in touch if you have any questions or collaborations in mind.
 
 ## Table of Contents
