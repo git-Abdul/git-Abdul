@@ -1,5 +1,7 @@
 # Abdul's GitHub Profile :snake:
 
+<img src="https://i.postimg.cc/G38GPVMz/thumbnail.png" alt="banner">
+
 Hello there! 👋 Welcome to my GitHub profile. I'm a passionate front-end developer with expertise in React (Next.js) and Python (Tkinter). I love creating interactive and user-friendly web applications and desktop applications. Here you'll find a collection of my projects and contributions. Feel free to explore and get in touch if you have any questions or collaborations in mind.
 
 ## Table of Contents
@@ -32,10 +34,8 @@ Here are some of my notable projects:
 
 Feel free to connect with me on other platforms:
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourlinkedinprofile/)
-- Twitter: [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
-- Portfolio Website: [www.yourwebsite.com](https://www.yourwebsite.com)
+- GitHub: [@git-abdul](https://github.com/git-abdul)
+- Portfolio Website: [Abdul • Dev](https://bit.ly/abdulr)
 
 Let's collaborate and build something amazing together! 🚀 Thanks for visiting my profile.
 * Most popular repository: `studyBuddy`
