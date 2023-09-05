@@ -45,6 +45,7 @@ Feel free to connect with me on other platforms:
 Let's collaborate and build something amazing together! 🚀 Thanks for visiting my profile.
 * Most popular repository: `studyBuddy`
 <hr>
+
 ## My Recent Projects :rocket:
 
 ### studyBuddy
