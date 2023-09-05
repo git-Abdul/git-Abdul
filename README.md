@@ -62,7 +62,6 @@ A discord bot made in python using discord.py
 
 ## Thanks for visiting my GitHub profile! :smiley:
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=madushadhanushka&theme=react" alt="mystreak"/>
 <img src="https://myreadme.vercel.app/api/embed/git-abdul?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
-<img src="https://komarev.com/ghpvc/?username=git-abdul&color=brightgreen" alt="watching_count" />
-<img src="https://img.shields.io/github/stars/git-abdul?label=Stars" alt="stars">
 <hr>
