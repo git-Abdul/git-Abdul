@@ -60,9 +60,7 @@ A discord bot made in python using discord.py
 * Contribute to more open source projects.
 * Land my dream job as a Python developer.
 
-## Thanks for visiting my GitHub profile! :smiley:
-
-<td style="padding-top:4px"><img src = "https://readme-jokes.vercel.app/api?theme=onedark"></td>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=madushadhanushka&theme=react" alt="mystreak"/>
 <img src="https://myreadme.vercel.app/api/embed/git-abdul?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+
+## Thanks for visiting my GitHub profile! :smiley:
 <hr>
