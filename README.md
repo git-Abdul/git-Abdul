@@ -34,6 +34,7 @@ Here are some of my notable projects:
 - **Problem Solving**: Analyzing complex problems and finding creative solutions
 - **Collaboration**: Working effectively in cross-functional teams
 <hr>
+
 ## Connect with Me
 
 Feel free to connect with me on other platforms:
