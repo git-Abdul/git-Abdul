@@ -1,4 +1,4 @@
-# Abdul's GitHub Profile :snake:
+# Abdul • Frontend developer, and Python enthusiast.
 
 <img src="https://i.postimg.cc/G38GPVMz/thumbnail.png" alt="banner">
 <hr>
