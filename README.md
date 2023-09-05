@@ -63,5 +63,9 @@ A discord bot made in python using discord.py
 ## Thanks for visiting my GitHub profile! :smiley:
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=madushadhanushka&theme=react" alt="mystreak"/>
+ <tr>
+ <td>onedark</td>
+ <td style="padding-top:4px"><img src = "https://readme-jokes.vercel.app/api?theme=onedark"></td>
+ </tr>
 <img src="https://myreadme.vercel.app/api/embed/git-abdul?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 <hr>
