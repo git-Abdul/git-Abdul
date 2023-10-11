@@ -1,6 +1,9 @@
 # Abdul • Frontend developer, and Python enthusiast.
 
-<img src="https://i.postimg.cc/G38GPVMz/thumbnail.png" alt="banner">
+<hr>
+<img src="https://i.postimg.cc/G38GPVMz/thumbnail.png" alt="banner" />
+<hr>
+<img src="https://i.postimg.cc/BvnHH9Nk/Screenshot-2023-10-11-200354.png" alt="featured" />
 <hr>
 
 Hello there! 👋 Welcome to my GitHub profile. I'm a passionate front-end developer with expertise in React (Next.js) and Python (Tkinter). I love creating interactive and user-friendly web applications and desktop applications. Here you'll find a collection of my projects and contributions. Feel free to explore and get in touch if you have any questions or collaborations in mind.
