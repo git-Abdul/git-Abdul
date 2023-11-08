@@ -23,9 +23,9 @@ Here are some of my notable projects:
    - Description: A full-fledged sophisticated developer portfolio website built using React and Next.js.
    - Repository: [Link](https://github.com/git-abdul/dev)
 
-2. **React E-commerce website**
-   - Description: A full-fledged e-commerce website built using React and Next.js. Features include product listings, shopping cart, user authentication, and payment processing.
-   - Repository: [Link](https://github.com/git-abdul/shop-app)
+2. **HueCraft**
+   - Description: A full-fledged website visualizer for UI/UX designers to visualize their color pallete or to choose a color pallete on a real website.
+   - Repository: [Link](https://github.com/git-abdul/huecraft)
 
 3. **Python Study Helper with Tkinter**
    - Description: A desktop application developed in Python using Tkinter for creating a user-friendly GUI. This application [describe your app's purpose].
