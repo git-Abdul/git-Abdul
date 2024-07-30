@@ -1,7 +1,7 @@
 # Abdul • Frontend developer, and Python enthusiast.
 
 <hr>
-<!--<img src="https://i.postimg.cc/G38GPVMz/thumbnail.png" alt="banner" />-->
+<!-- Best day ever 30/7/24 -->
 <img src="https://i.postimg.cc/xC0LbTgp/background.png" alt="banner" />
 <hr>
 <a href="https://git-abdul.github.io/huecraft" target="_blank"><img src="https://github.com/git-Abdul/huecraft/raw/master/public/ThumbnailMain.png" alt="featured" /></a>
