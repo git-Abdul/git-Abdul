@@ -1,4 +1,4 @@
-# Abdul • Frontend developer, and Python enthusiast.
+# Abdul
 
 <hr>
 <!-- Best day ever 30/7/24 -->
