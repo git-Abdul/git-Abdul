@@ -1,6 +1,3 @@
-# Abdul
-
-<hr>
 <!-- Best day ever 30/7/24 -->
 <img src="https://i.postimg.cc/xC0LbTgp/background.png" alt="banner" />
 <hr>
