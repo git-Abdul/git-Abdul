@@ -65,7 +65,5 @@ A discord bot made in python using discord.py
 * Contribute to more open source projects.
 * Land my dream job as a Python developer.
 
-<img src="https://myreadme.vercel.app/api/embed/git-abdul?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
-
 ## Thanks for visiting my GitHub profile! :smiley:
 <hr>
