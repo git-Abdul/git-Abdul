@@ -1,7 +1,7 @@
 <!-- Best day ever 30/7/24 -->
-<img src="https://i.postimg.cc/xC0LbTgp/background.png" alt="banner" />
+<img src="https://i.postimg.cc/FKdQc7CG/background-Blue.png" alt="banner" />
 <hr>
-<a href="https://git-abdul.github.io/huecraft" target="_blank"><img src="https://github.com/git-Abdul/huecraft/raw/master/public/ThumbnailMain.png" alt="featured" /></a>
+<a href="https://git-abdul.github.io/huecraft" target="_blank"><img src="https://i.postimg.cc/7LvKshYK/Thumbnail-Blue.png" alt="featured" /></a>
 <hr>
 
 Hello there! 👋 Welcome to my GitHub profile. I'm a passionate front-end developer with expertise in React (Next.js) and Python (Tkinter). I love creating interactive and user-friendly web applications and desktop applications. Here you'll find a collection of my projects and contributions. Feel free to explore and get in touch if you have any questions or collaborations in mind.
